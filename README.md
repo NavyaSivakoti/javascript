@@ -1,11 +1,11 @@
-# playwright-js-ts
-My learnings of JavaScript, TypeScript and Playwright for QA Automation.
+# JavaScript
+My learnings of JavaScript for QA Automation.
 
 ---
 
 ## About This Repository
 
-This repository documents my hands-on learning journey through JavaScript, TypeScript and Playwright — building the skills needed for QA Automation Engineering.
+This repository documents my hands-on learning journey through JavaScript — building the skills needed for QA Automation Engineering.
 
 Each session includes notes and practice code, organised by topic and language.
 
@@ -14,27 +14,18 @@ Each session includes notes and practice code, organised by topic and language.
 ## Repository Structure
 
 ```
-playwright-js-ts/
-│
-├── javascript/
-│   ├── session-01-notes/
-│   │   └── notes.md
-│   ├── session-02/
-│   │   └── (practice code)
-│   └── ...
-│
-├── typescript/
-│   └── (coming soon)
-│
-└── playwright/
-    └── (coming soon)
+javascript/
+   ├── session-01-notes/
+   │   └── notes.md
+   ├── session-02/
+   │   └── (practice code)
+   └── ...
 ```
+
 
 ## Tech Stack
 
 - JavaScript (ES6+)
-- TypeScript
-- Playwright
 - Node.js
 - VS Code
 
@@ -42,7 +33,7 @@ playwright-js-ts/
 
 ## About Me
 
-I am a QA professional with 4+ years of experience in manual and automation testing, currently upskilling in Playwright and JavaScript to transition into a QA Automation Engineer / SDET role.
+I am a QA professional with 4+ years of experience in manual and automation testing, currently upskilling in JavaScript which makes Playwright much easier to work with.
 
 - 📍 Open to opportunities across the USA
 - 💼 Open to QA Automation Engineer and SDET roles
